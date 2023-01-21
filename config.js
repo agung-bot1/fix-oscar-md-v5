@@ -1,13 +1,13 @@
-global.you = ['6285850539404'] 
+global.you = ['62895406419364'] 
 //Developer Bot
 global.namebot = 'oscar'
-global.rowner = ['6285850539404', '16199961931'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
+global.rowner = ['62895406419364', '16199961931'] // Real Owner Bot
+global.owner = ['62895406419364'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.helper = ['6285850539404']
+global.helper = ['62895406419364']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -85,9 +85,9 @@ global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
 global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/LKxOImbU62e9sgai6Ow2Ef'
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = 'Whatsapp-bot'
+global.author = 'Agung'
+global.wm = '© Bot12'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
